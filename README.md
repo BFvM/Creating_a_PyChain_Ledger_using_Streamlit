@@ -1,10 +1,10 @@
 # Creating_a_PyChain_Ledger_using_Streamlit
 A simple blockchain based ledger using PyChain with a web interface 
 >
-##Project Overview
+## Project Overview
 This project uses the Streamlit application to build a PyChain ledger that documents transaction data to a blockchain so that transactions records cannpt be changed or tampered with. It includes a validation process that reports the bloockchain transactions into a dataframe.
 >
-##Technologies
+## Technologies
 The project uses Python version 3.9.12, with the the following:
 >
 -Pandas - version 1.3.5 allows easy creation and manipulation of dataframes
@@ -17,12 +17,12 @@ The project uses Python version 3.9.12, with the the following:
 >
 -Hashlib - implements a simple interface to secure hash and message digest algorithms. This project uses SHA265 to create a hexidigest.
 
-##Installation Guide
+## Installation Guide
 a) Install the Streamlit application in terminal in a deev environment (pip install streamlit)
 >
 b) Use vscode to view and edit the pychain.py file
 >
-##Results
+## Results
 >
 Below are examples of the program.
 >
