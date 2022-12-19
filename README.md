@@ -26,9 +26,9 @@ b) Use vscode to view and edit the pychain.py file
 >
 Below are examples of the program.
 >
-###Web interface of PyChain Ledger
+### Web interface of PyChain Ledger
 ![Screen Shot 2022-12-14 at 13 02 12](https://user-images.githubusercontent.com/110360757/208361240-1e631e19-47b1-4b0d-8248-086455d79491.png)
 >Note validation of blockchain at base of image, and Block Difficulty slider and Block Inspector in the left sidebar.
 >
-###Dataframe record confirming blockchain transactions
+### Dataframe record confirming blockchain transactions
 ![Screen Shot 2022-12-14 at 13 02 36](https://user-images.githubusercontent.com/110360757/208361744-b9668e54-ccdc-4d22-80e4-4923978ba01c.png)
