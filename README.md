@@ -7,15 +7,15 @@ This project uses the Streamlit application to build a PyChain ledger that docum
 ## Technologies
 The project uses Python version 3.9.12, with the the following:
 >
--Pandas - version 1.3.5 allows easy creation and manipulation of dataframes
+1. Pandas - version 1.3.5 allows easy creation and manipulation of dataframes
 >
 -Streamlit - version 1.15.2 enables to application in a web browser that allows users to interact with the ledger
 >
--Data Classes - provides both a decorator and function that automatically add generated special methods to classes and allows class blocks to be coded into the application
+2. Data Classes - provides both a decorator and function that automatically add generated special methods to classes and allows class blocks to be coded into the application
 >
--Typing - enables fundamental support of the types: Any, Union, Tuple, Callable, Typevar and Generic
+3. Typing - enables fundamental support of the types: Any, Union, Tuple, Callable, Typevar and Generic
 >
--Hashlib - implements a simple interface to secure hash and message digest algorithms. This project uses SHA265 to create a hexidigest.
+4. Hashlib - implements a simple interface to secure hash and message digest algorithms. This project uses SHA265 to create a hexidigest.
 
 ## Installation Guide
 a) Install the Streamlit application in terminal in a deev environment (pip install streamlit)
